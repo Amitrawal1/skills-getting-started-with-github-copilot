@@ -38,6 +38,42 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Football Team": {
+        "description": "Practice football skills, teamwork, and competitive matches",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Badminton Club": {
+        "description": "Improve badminton skills through practice and friendly matches",
+        "schedule": "Tuesdays and Fridays, 4:00 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Music Club": {
+        "description": "Learn musical instruments, singing, and music appreciation",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Photography Club": {
+        "description": "Explore photography, composition, and creative visual storytelling",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Math Club": {
+        "description": "Solve challenging math problems and develop logical reasoning",
+        "schedule": "Thursdays, 3:30 PM - 4:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Robotics Club": {
+        "description": "Explore robotics, engineering, and hands-on problem solving",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": []
     }
 }
 
